@@ -114,6 +114,24 @@ const Portfolio: React.FC = () => {
         technologies: ['Java', 'Spring Boot', 'Oracle DB', 'Angular', 'Docker'],
         impact: 'Improved operational efficiency by 45% for client manufacturing units'
       }
+    },
+    {
+      title: 'Smart Cricket Ground Management System',
+      description: 'The Smart Cricket Ground Management System which provides you to handle all cricket ground management with simpler steps.',
+      image: '/images/portfolio/VCA.jpg',
+      tags: ['Python', 'Django', 'MySQL'],
+      details: {
+        overview: 'We developed a web-based application designed to digitalize and streamline the cricket ground management process. The platform enables real-time monitoring, maintenance tracking, and match management across multiple grounds and clubs.',
+        features: [
+          'Ground & Pitch Maintenance',
+          'Match Management',
+          'Role-Based Access System',
+          'Daily logging of activities',
+          'Analytics & Reporting'
+        ],
+        technologies: ['Python', 'Django', 'MySQL'],
+        impact: 'Improved efficiency in ground and pitch preparation.'
+      }
     }
   ];
 

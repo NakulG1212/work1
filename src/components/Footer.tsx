@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code, Twitter, Facebook, Youtube, ArrowUp } from 'lucide-react';
+import { Code, Twitter, Facebook, Youtube,Instagram, ArrowUp } from 'lucide-react';
 import { scrollToTop } from '../utils/smoothScroll';
 
 const Footer: React.FC = () => {
@@ -11,11 +11,12 @@ const Footer: React.FC = () => {
     { name: 'Terms & Conditions', href: '#' },
     { name: 'Sitemap', href: '#' },
   ];
-
+  
   const socialLinks = [
-    { icon: Twitter, href: '#', label: 'Twitter' },
+    // { icon: Twitter, href: '#', label: 'Twitter' },
     { icon: Facebook, href: '#', label: 'Facebook' },
     { icon: Youtube, href: '#', label: 'YouTube' },
+    { icon: Instagram, href: '#', label: 'Instagram'} 
   ];
 
   return (
