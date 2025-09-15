@@ -11,13 +11,16 @@ const Footer: React.FC = () => {
     { name: 'Terms & Conditions', href: '#' },
     { name: 'Sitemap', href: '#' },
   ];
-  
   const socialLinks = [
-    // { icon: Twitter, href: '#', label: 'Twitter' },
+    { icon: Twitter, href: '#', label: 'Twitter' },
     { icon: Facebook, href: '#', label: 'Facebook' },
     { icon: Youtube, href: '#', label: 'YouTube' },
     { icon: Instagram, href: '#', label: 'Instagram'} 
   ];
+
+  // facebook : https://www.facebook.com/share/1BqDuU7xzG/
+  // insta : https://www.instagram.com/techclassofeducation/
+  // youtube : https://www.youtube.com/@techclassofeducationtce7598
 
   return (
     <footer className="bg-dark-surface/50 backdrop-blur-sm border-t border-dark-muted/20">
