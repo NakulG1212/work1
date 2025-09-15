@@ -77,5 +77,16 @@
     "online": false,
     "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
      "type": "Seminar"  
+  },
+  {
+    "id": "Shivaji-Science-College-Seminar",
+    "title": "Shivaji Science College Seminar",
+    "location": "Shivaji Science College, Nagpur",
+    "date": "2025-09-18T10:00:00+05:30",
+    "thumbnail": "/images/events/MERN+AI.png",
+    "description": "A knowledge-sharing session on programming skills, latest frameworks, and practical insights into building a career in technology.",
+    "online": false,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Seminar"  
   }
 ]
