@@ -1,0 +1,81 @@
+[
+  {
+    "id": "bootcamp-2025-09-nagpur",
+    "title": "Web Development Bootcamp",
+    "location": "Nagpur",
+    "date": "2025-09-15T09:30:00+05:30",
+    "endDate": "2025-09-16T17:30:00+05:30",
+    "thumbnail": "/images/events/mern.jpg",
+    "description": "Hands-on HTML, React, and Git fundamentals.",
+    "online": false,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Training"   
+  },
+  {
+    "id": "C-2025-09-nagpur",
+    "title": "C Bootcamp",
+    "location": "Nagpur",
+    "date": "2025-09-15T09:30:00+05:30",
+    "endDate": "2025-09-16T17:30:00+05:30",
+    "thumbnail": "/images/events/C.jpg",
+    "description": "Hands-on HTML, React, and Git fundamentals.",
+    "online": false,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Training"   
+  },
+  {
+    "id": "frontend-workshop-2025-07-online",
+    "title": "Frontend Performance Workshop",
+    "location": "Online",
+    "date": "2025-07-20T11:00:00+05:30",
+    "thumbnail": "/images/events/python.jpg",
+    "description": "Optimize Lighthouse scores, Core Web Vitals, and bundle size.",
+    "online": true,
+    "detailsUrl": "/events/frontend-performance-2025",
+    "type": "Workshop"   
+  },
+  {
+    "id": "react-training-2025-10-hybrid",
+    "title": "React Advanced Training",
+    "location": "Hybrid (Nagpur + Online)",
+    "date": "2025-10-20T10:00:00+05:30",
+    "thumbnail": "/images/events/course.jpg",
+    "description": "Patterns, performance, and accessibility in modern React.",
+    "online": true,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Workshop"  
+  },
+  {
+    "id": "react-training-2025-10-hybrid",
+    "title": "React Advanced Training",
+    "location": "Hybrid (Nagpur + Online)",
+    "date": "2025-10-20T10:00:00+05:30",
+    "thumbnail": "/images/events/course.jpg",
+    "description": "Patterns, performance, and accessibility in modern React.",
+    "online": true,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Seminar"  
+  },
+  {
+    "id": "JAVA-2025-10-hybrid",
+    "title": "JAVA Advanced Training",
+    "location": "Hybrid (Nagpur + Online)",
+    "date": "2025-10-20T10:00:00+05:30",
+    "thumbnail": "/images/events/JAVA.jpg",
+    "description": "Patterns, performance, and accessibility in modern React.",
+    "online": true,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Seminar"  
+  },
+  {
+    "id": "AMBEDKAR-COLLEGE-SEMINAR",
+    "title": "DR. Ambedkar College Seminar",
+    "location": "Dr. Ambedkar College, Nagpur",
+    "date": "2025-09-19T10:00:00+05:30",
+    "thumbnail": "/images/events/PythonDjango.png",
+    "description": "An interactive seminar on emerging trends in software development, fullstack technologies, and career opportunities in IT.",
+    "online": false,
+    "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSctU76UjAGwZlqsn15C89_VefOBhYN6y40YDJpIIrcZ-yxJmw/viewform?usp=dialog",
+     "type": "Seminar"  
+  }
+]
